@@ -11,3 +11,10 @@
 # 例如 python3 cut-json-list.py -i goodslist.json -k data.list -c 8
 # 就是将 goodslist.json 里的 json对象（假设为 jsonObj）中的 jsonObj["data"]["list"] 这个 list 裁剪到8项
 ```
+
+#### unicode-decode.py
+```Python
+# 将文件中 unicode（类似 \uxxxx） 转中文
+# 使用示例
+python3 unicode-decode.py xxx.json
+```
