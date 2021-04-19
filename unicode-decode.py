@@ -1,7 +1,7 @@
 # 将文件中 unicode（类似 \uxxxx） 转中文
 # @author KeLan-柯烂
 # @time 2021.4
-# @version 1.0.0-beta210413a
+# @version 1.0.0-beta210419a
 
 import sys
 import re

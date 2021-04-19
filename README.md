@@ -18,3 +18,10 @@
 # 使用示例
 python3 unicode-decode.py xxx.json
 ```
+
+#### prettyjson.py
+```Python
+# 将单行的 json 文件，转化为有换行和缩进的样式
+# 使用示例
+python3 prettyjson.py xxx.json
+```
